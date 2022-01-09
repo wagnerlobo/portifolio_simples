@@ -131,6 +131,13 @@ section:nth-child(odd) {
     width: 300px;
     height: 300px;
 }
+.contato ul li {
+
+    display: flex;
+    text-decoration: none;
+    justify-content: space-between;
+}
+
 .actions {
 
     display: flex;
